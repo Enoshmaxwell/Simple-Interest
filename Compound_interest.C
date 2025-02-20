@@ -1,8 +1,8 @@
 /*
 Author: Enosh Maxwell
 Reg No:D33-2453-2023
-Program to find simple interest
-Date: 19th Feb 2025
+Program to find Compound interest
+Date: 20th Feb 2025
 */
 #include <stdio.h>
 #include <math.h>  // For the pow() function
